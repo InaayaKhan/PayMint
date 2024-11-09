@@ -1,0 +1,841 @@
+.cont1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px;
+
+    position: static;
+    width: 410.67px;
+    height: 83px;
+    left: 0px;
+    top: 397px;
+
+/* True White */
+
+    background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+
+.down{
+    position: absolute;
+    top: -1230px;
+
+
+}
+
+/* NAVBAR */
+/* NAVBAR */
+/* NAVBAR */
+/* NAVBAR */
+/* NAVBAR */
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: right;
+    list-style: none;
+    margin: 13px 20px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.navbar li a{
+    position: absolute;
+    padding: 3px 3px;
+    left: 1330px;
+    text-decoration: none;
+    font-size: 24px;
+    color: #605DEC;
+}
+
+
+/* TITLETEXT */
+/* TITLETEXT */
+/* TITLETEXT */
+/* TITLETEXT */
+/* TITLETEXT */
+
+.titletext{/*Find your next adventure with these flight deals */
+
+
+    position: absolute;
+    width: 515px;
+    height: 3px;
+    left: 64px;
+    top: 140px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    top: 100px;
+    /* identical to box height */
+
+
+    /* / Grey / 600 / */
+
+    color: #6E7491;
+
+} 
+
+
+.titletext span{
+    color: #605DEC;
+}
+
+
+/* ALL CARDS */
+/* ALL CARDS */
+/* ALL CARDS */
+/* ALL CARDS */
+/* ALL CARDS */
+
+
+.card1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 410.67px;
+    height: 480px;
+    left: 55px;
+    top: 202px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+.card2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 410.67px;
+    height: 480px;
+    left: 506px;
+    top: 202px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+.card3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 410.67px;
+    height: 480px;
+    left: 955px;
+    top: 202px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+.card4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 1312px;
+    height: 480px;
+    left: 64px;
+    top: 736px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+.card5{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 410.67px;
+    height: 546px;  
+    left: 64px;
+    top: 1390px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+}
+.card6{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 410.67px;
+    height: 546px;  
+    left: 450px;
+    top: 0px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;    
+}
+.card7{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 410.67px;
+    height: 546px;  
+    left: 450px;
+    top: 0px;
+
+/* True White */
+
+    background: #FFFFFF;
+/* elevation / light */
+
+    box-shadow: 0px 2px 4px rgba(28, 5, 77, 0.1), 0px 12px 32px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;   
+
+}
+
+
+
+/* DATA1 */
+/* DATA1 */
+/* DATA1 */
+/* DATA1 */
+/* DATA1 */
+
+.data1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 362.67px;
+    height: 25px;
+    left: 6px;
+    top: 379px;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+.data1 p{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+    color: #7C8DB0;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+.data1 h4{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #7C8DB0;
+
+}
+.data1 span{
+    color: #605DEC;
+    
+}
+
+
+
+
+
+
+/* DATA2 */
+/* DATA2 */
+/* DATA2 */
+/* DATA2 */
+/* DATA2 */
+
+.data2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 362.67px;
+    height: 25px;
+    left: 6px;
+    top: 376px;
+    
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+
+.data2 p{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+    color: #7C8DB0;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+.data2 h4{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #7C8DB0;
+}
+
+.data2 span{
+    color: #605DEC;
+}
+
+
+
+
+
+
+/* DATA3 */
+/* DATA3 */
+/* DATA3 */
+/* DATA3 */
+/* DATA3 */
+
+.data3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 362.67px;
+    height: 25px;
+    left: 6px;
+    top: 376px;
+    
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+
+.data3 p{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+    color: #7C8DB0;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+.data3 h4{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #7C8DB0;
+}
+
+.data3 span{
+    color: #605DEC;
+}
+
+
+
+
+
+
+
+
+
+
+/* DATA4 */
+/* DATA4 */
+/* DATA4 */
+/* DATA4 */
+/* DATA4 */
+.data4{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 362.67px;
+    height: 25px;
+    left: 6px;
+    top: 376px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+color: #7C8DB0;
+
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+.data4 p{    /* description */
+
+
+    position: absolute;
+    height: 22px;
+    left: 0px;
+    right: 24px;
+    bottom: -68px;
+    width: 1330px;
+    
+    /* Body Default */
+    
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    /* Grey / 400 */
+    
+    color: #7C8DB0;
+    
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+    
+
+
+}
+
+.data4 h4{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #7C8DB0;
+}
+
+
+.data4 span{
+    color: #605DEC;
+}
+
+
+
+/* TITLETEXT1 */
+/* TITLETEXT1 */
+/* TITLETEXT1 */
+/* TITLETEXT1 */
+/* TITLETEXT1 */
+
+.titletext1{/* Explore unique places to stay */
+
+
+    position: absolute;
+    width: 316px;
+    height: 33px;
+    left: 64px;
+    top: 1297px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height /
+
+
+    / Grey / 600 */
+
+    color: #6E7491;
+
+
+}
+
+.titletext1 span{
+    color: #00BC9A;
+
+
+}
+.paymint{/* Explore unique places to stay */
+
+
+    position: absolute;
+    width: 316px;
+    height: 33px;
+    left: 64px;
+    top: 1230px;
+
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    /* identical to box height /
+
+
+    / Grey / 600 */
+
+    color: #6E7491;
+
+
+}
+
+.paymint span{
+    color: #00BC9A;
+}
+
+
+
+
+
+/* DATA5 */
+/* DATA5 */
+/* DATA5 */
+/* DATA5 */
+/* DATA5 */
+
+.data5{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px;
+
+    position: static;
+    width: 362.67px;
+    height: 149px;
+    left: 0px;
+    top: 397px;
+
+/* True White */
+
+    background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.data5 p{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+    color: #7C8DB0;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+.data5 h4{
+    font-family: Nunito Sans;
+    font-style: 600;
+    font-size: 25px;
+    line-height: 25px;
+    font-size: 25px;
+    line-height: 25px;
+    color: #7C8DB0;
+}
+
+.data5 span{
+    color: #605DEC;
+}
+
+
+
+
+
+/* DATA6 */
+/* DATA6 */
+/* DATA6 */
+/* DATA6 */
+/* DATA6 */
+
+
+.data6{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px;
+
+    position: static;
+    width: 362.67px;
+    height: 149px;
+    left: 0px;
+    top: 397px;
+
+/* True White */
+
+    background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.data6 p{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+    color: #7C8DB0;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+.data6 h4{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    font-size: 25px;
+    line-height: 25px;
+    color: #7C8DB0;
+}
+
+.data6 span{
+    color: #605DEC;
+}
+
+
+
+
+
+
+/* DATA 7 */
+/* DATA 7 */
+/* DATA 7 */
+/* DATA 7 */
+/* DATA 7 */
+
+.data7{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 24px;
+
+    position: static;
+    width: 362.67px;
+    height: 149px;
+    left: 0px;
+    top: 397px;
+
+/* True White */
+
+    background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.data7 p{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+/* identical to box height */
+
+
+/* Grey / 400 */
+
+    color: #7C8DB0;
+
+
+/* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 4px 0px;
+}
+
+
+.data7 h4{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 25px;
+    color: #7C8DB0;
+}
+
+.data7 span{
+    color: #605DEC;
+}
+
+.data4 a{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
